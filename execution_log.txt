@@ -1,0 +1,584 @@
+=== Execution Log ===
+Arguments: ./web_crawler urls.txt 1 1 
+Threads: 1, Words per Batch: 1
+
+File reading took 0.00 seconds
+Word processing took 0.07 seconds
+Word processing took 0.01 seconds
+Word processing took 0.01 seconds
+Word processing took 0.01 seconds
+Word processing took 0.00 seconds
+Thread creation and execution took 18.67 seconds
+A: 136363
+B: 65611
+C: 50049
+D: 44060
+E: 26025
+F: 53239
+G: 29233
+H: 98627
+I: 95771
+J: 5226
+K: 12775
+L: 42800
+M: 78400
+N: 38136
+O: 68002
+P: 39410
+Q: 3739
+R: 22944
+S: 101580
+T: 191055
+U: 13355
+V: 8810
+W: 93511
+X: 166
+Y: 34140
+Z: 93
+Total execution took 18.67 seconds
+
+=== Execution Log ===
+Arguments: ./web_crawler urls.txt 1 32 
+Threads: 1, Words per Batch: 32
+
+File reading took 0.00 seconds
+Word processing took 0.06 seconds
+Word processing took 0.01 seconds
+Word processing took 0.01 seconds
+Word processing took 0.01 seconds
+Word processing took 0.00 seconds
+Thread creation and execution took 12.57 seconds
+A: 136363
+B: 65611
+C: 50049
+D: 44060
+E: 26025
+F: 53239
+G: 29233
+H: 98627
+I: 95771
+J: 5226
+K: 12775
+L: 42800
+M: 78400
+N: 38136
+O: 68002
+P: 39410
+Q: 3739
+R: 22944
+S: 101580
+T: 191055
+U: 13355
+V: 8810
+W: 93511
+X: 166
+Y: 34140
+Z: 93
+Total execution took 12.57 seconds
+
+=== Execution Log ===
+Arguments: ./web_crawler urls.txt 2 256 
+Threads: 2, Words per Batch: 256
+
+File reading took 0.00 seconds
+Word processing took 0.01 seconds
+Word processing took 0.01 seconds
+Word processing took 0.06 seconds
+Word processing took 0.01 seconds
+Word processing took 0.01 seconds
+Thread creation and execution took 10.46 seconds
+A: 151299
+B: 71465
+C: 54565
+D: 47939
+E: 28215
+F: 58287
+G: 31480
+H: 109906
+I: 106723
+J: 5806
+K: 13711
+L: 46213
+M: 85641
+N: 41344
+O: 75670
+P: 42273
+Q: 4019
+R: 25109
+S: 111455
+T: 210428
+U: 14781
+V: 9593
+W: 104469
+X: 196
+Y: 35749
+Z: 102
+Total execution took 10.46 seconds
+
+=== Execution Log ===
+Arguments: ./web_crawler urls.txt 4 1024 
+Threads: 4, Words per Batch: 1024
+
+File reading took 0.00 seconds
+Word processing took 0.01 seconds
+Word processing took 0.01 seconds
+Word processing took 0.01 seconds
+Word processing took 0.06 seconds
+Word processing took 0.01 seconds
+Thread creation and execution took 7.36 seconds
+A: 147113
+B: 70892
+C: 54120
+D: 47158
+E: 29087
+F: 56801
+G: 30580
+H: 107814
+I: 102498
+J: 5697
+K: 13205
+L: 45222
+M: 84338
+N: 41136
+O: 73973
+P: 42137
+Q: 3812
+R: 24929
+S: 108092
+T: 203231
+U: 14137
+V: 9486
+W: 100984
+X: 222
+Y: 35799
+Z: 91
+Total execution took 7.36 seconds
+
+=== Execution Log ===
+Arguments: ./web_crawler urls.txt 8 4096 
+Threads: 8, Words per Batch: 4096
+
+File reading took 0.00 seconds
+Word processing took 0.06 seconds
+Word processing took 0.06 seconds
+Word processing took 0.07 seconds
+Word processing took 0.06 seconds
+Word processing took 0.06 seconds
+Thread creation and execution took 20.14 seconds
+A: 455065
+B: 241180
+C: 177600
+D: 157705
+E: 89545
+F: 196645
+G: 109585
+H: 331050
+I: 332345
+J: 17945
+K: 50685
+L: 159045
+M: 294705
+N: 143045
+O: 223730
+P: 147070
+Q: 13190
+R: 78155
+S: 359215
+T: 669990
+U: 47185
+V: 30495
+W: 318230
+X: 190
+Y: 136325
+Z: 385
+Total execution took 20.14 seconds
+
+=== Execution Log ===
+Arguments: ./web_crawler urls.txt 1 32 
+Threads: 1, Words per Batch: 32
+
+File reading took 0.00 seconds
+Word processing took 0.03 seconds
+Word processing took 0.01 seconds
+Word processing took 0.01 seconds
+Word processing took 0.01 seconds
+Word processing took 0.00 seconds
+Thread creation and execution took 15.08 seconds
+A: 136363
+B: 65611
+C: 50049
+D: 44060
+E: 26025
+F: 53239
+G: 29233
+H: 98627
+I: 95771
+J: 5226
+K: 12775
+L: 42800
+M: 78400
+N: 38136
+O: 68002
+P: 39410
+Q: 3739
+R: 22944
+S: 101580
+T: 191055
+U: 13355
+V: 8810
+W: 93511
+X: 166
+Y: 34140
+Z: 93
+Total execution took 15.10 seconds
+
+=== Execution Log ===
+Arguments: ./web_crawler urls.txt 1 32 
+Threads: 1, Words per Batch: 32
+
+File reading took 0.00 seconds
+Word processing took 0.03 seconds
+Word processing took 0.01 seconds
+Word processing took 0.01 seconds
+Word processing took 0.01 seconds
+Word processing took 0.00 seconds
+Thread creation and execution took 16.98 seconds
+A: 136363
+B: 65611
+C: 50049
+D: 44060
+E: 26025
+F: 53239
+G: 29233
+H: 98627
+I: 95771
+J: 5226
+K: 12775
+L: 42800
+M: 78400
+N: 38136
+O: 68002
+P: 39410
+Q: 3739
+R: 22944
+S: 101580
+T: 191055
+U: 13355
+V: 8810
+W: 93511
+X: 166
+Y: 34140
+Z: 93
+Total execution took 17.02 seconds
+
+=== Execution Log ===
+Arguments: ./web_crawler urls.txt 2 256 
+Threads: 2, Words per Batch: 256
+
+File reading took 0.00 seconds
+Word processing took 0.00 seconds
+Word processing took 0.02 seconds
+Word processing took 0.00 seconds
+Word processing took 0.00 seconds
+Word processing took 0.01 seconds
+Thread creation and execution took 4.80 seconds
+A: 151299
+B: 71465
+C: 54565
+D: 47939
+E: 28215
+F: 58287
+G: 31480
+H: 109906
+I: 106723
+J: 5806
+K: 13711
+L: 46213
+M: 85641
+N: 41344
+O: 75670
+P: 42273
+Q: 4019
+R: 25109
+S: 111455
+T: 210428
+U: 14781
+V: 9593
+W: 104469
+X: 196
+Y: 35749
+Z: 102
+Total execution took 4.83 seconds
+
+=== Execution Log ===
+Arguments: ./web_crawler urls.txt 4 1024 
+Threads: 4, Words per Batch: 1024
+
+File reading took 0.00 seconds
+Word processing took 0.01 seconds
+Word processing took 0.01 seconds
+Word processing took 0.01 seconds
+Word processing took 0.04 seconds
+Word processing took 0.01 seconds
+Thread creation and execution took 16.18 seconds
+A: 147113
+B: 70892
+C: 54120
+D: 47158
+E: 29087
+F: 56801
+G: 30580
+H: 107814
+I: 102498
+J: 5697
+K: 13205
+L: 45222
+M: 84338
+N: 41136
+O: 73973
+P: 42137
+Q: 3812
+R: 24929
+S: 108092
+T: 203231
+U: 14137
+V: 9486
+W: 100984
+X: 222
+Y: 35799
+Z: 91
+Total execution took 16.21 seconds
+
+=== Execution Log ===
+Arguments: ./web_crawler urls.txt 1 1 
+Threads: 1, Words per Batch: 1
+
+File reading took 0.00 seconds
+Word processing took 0.06 seconds
+Word processing took 0.01 seconds
+Word processing took 0.01 seconds
+Word processing took 0.01 seconds
+Word processing took 0.00 seconds
+Thread creation and execution took 17.41 seconds
+A: 136363
+B: 65611
+C: 50049
+D: 44060
+E: 26025
+F: 53239
+G: 29233
+H: 98627
+I: 95771
+J: 5226
+K: 12775
+L: 42800
+M: 78400
+N: 38136
+O: 68002
+P: 39410
+Q: 3739
+R: 22944
+S: 101580
+T: 191055
+U: 13355
+V: 8810
+W: 93511
+X: 166
+Y: 34140
+Z: 93
+Total execution took 17.48 seconds
+
+=== Execution Log ===
+Arguments: ./web_crawler urls.txt 1 32 
+Threads: 1, Words per Batch: 32
+
+File reading took 0.00 seconds
+Word processing took 0.06 seconds
+Word processing took 0.01 seconds
+Word processing took 0.01 seconds
+Word processing took 0.01 seconds
+Word processing took 0.00 seconds
+Thread creation and execution took 12.19 seconds
+A: 136363
+B: 65611
+C: 50049
+D: 44060
+E: 26025
+F: 53239
+G: 29233
+H: 98627
+I: 95771
+J: 5226
+K: 12775
+L: 42800
+M: 78400
+N: 38136
+O: 68002
+P: 39410
+Q: 3739
+R: 22944
+S: 101580
+T: 191055
+U: 13355
+V: 8810
+W: 93511
+X: 166
+Y: 34140
+Z: 93
+Total execution took 12.26 seconds
+
+=== Execution Log ===
+Arguments: ./web_crawler urls.txt 2 256 
+Threads: 2, Words per Batch: 256
+
+File reading took 0.00 seconds
+Word processing took 0.01 seconds
+Word processing took 0.01 seconds
+Word processing took 0.03 seconds
+Word processing took 0.01 seconds
+Word processing took 0.00 seconds
+Thread creation and execution took 22.90 seconds
+A: 151299
+B: 71465
+C: 54565
+D: 47939
+E: 28215
+F: 58287
+G: 31480
+H: 109906
+I: 106723
+J: 5806
+K: 13711
+L: 46213
+M: 85641
+N: 41344
+O: 75670
+P: 42273
+Q: 4019
+R: 25109
+S: 111455
+T: 210428
+U: 14781
+V: 9593
+W: 104469
+X: 196
+Y: 35749
+Z: 102
+Total execution took 22.92 seconds
+
+=== Execution Log ===
+Arguments: ./web_crawler urls.txt 1 32 
+Threads: 1, Words per Batch: 32
+
+File reading took 0.00 seconds
+Word processing took 0.04 seconds
+Word processing took 0.01 seconds
+Word processing took 0.01 seconds
+Word processing took 0.01 seconds
+Word processing took 0.00 seconds
+Thread creation and execution took 25.26 seconds
+A: 136363
+B: 65611
+C: 50049
+D: 44060
+E: 26025
+F: 53239
+G: 29233
+H: 98627
+I: 95771
+J: 5226
+K: 12775
+L: 42800
+M: 78400
+N: 38136
+O: 68002
+P: 39410
+Q: 3739
+R: 22944
+S: 101580
+T: 191055
+U: 13355
+V: 8810
+W: 93511
+X: 166
+Y: 34140
+Z: 93
+Total execution took 25.28 seconds
+
+=== Execution Log ===
+Arguments: ./web_crawler urls.txt 4 1024 
+Threads: 4, Words per Batch: 1024
+
+File reading took 0.00 seconds
+Word processing took 0.01 seconds
+Word processing took 0.01 seconds
+Word processing took 0.01 seconds
+Word processing took 0.02 seconds
+Word processing took 0.01 seconds
+Thread creation and execution took 15.45 seconds
+A: 147113
+B: 70892
+C: 54120
+D: 47158
+E: 29087
+F: 56801
+G: 30580
+H: 107814
+I: 102498
+J: 5697
+K: 13205
+L: 45222
+M: 84338
+N: 41136
+O: 73973
+P: 42137
+Q: 3812
+R: 24929
+S: 108092
+T: 203231
+U: 14137
+V: 9486
+W: 100984
+X: 222
+Y: 35799
+Z: 91
+Total execution took 15.48 seconds
+
+=== Execution Log ===
+Arguments: ./web_crawler urls.txt 8 4096 
+Threads: 8, Words per Batch: 4096
+
+File reading took 0.00 seconds
+Word processing took 0.04 seconds
+Word processing took 0.02 seconds
+Word processing took 0.03 seconds
+Word processing took 0.04 seconds
+Word processing took 0.03 seconds
+Thread creation and execution took 23.53 seconds
+A: 455065
+B: 241180
+C: 177600
+D: 157705
+E: 89545
+F: 196645
+G: 109585
+H: 331050
+I: 332345
+J: 17945
+K: 50685
+L: 159045
+M: 294705
+N: 143045
+O: 223730
+P: 147070
+Q: 13190
+R: 78155
+S: 359215
+T: 669990
+U: 47185
+V: 30495
+W: 318230
+X: 190
+Y: 136325
+Z: 385
+Total execution took 23.56 seconds
